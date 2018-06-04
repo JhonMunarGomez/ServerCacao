@@ -1,9 +1,8 @@
 module.exports={
     port:3320,
-     host:'localhost',
+     host:'200.21.7.84',
      user:'root',
-     password:'root',
+     password:'Pelikan',
      database:'cacao',
      SECRET_TOKEN:'solosiesnecesario'
-
 }
